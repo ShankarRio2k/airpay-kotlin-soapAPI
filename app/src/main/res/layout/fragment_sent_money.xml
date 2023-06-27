@@ -21,7 +21,7 @@
             android:id="@+id/recipient_number_input_layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/phone_number_hint"
+            android:hint="Pay to (+91 ***** *****)"
             android:paddingTop="8dp"
             app:counterEnabled="false">
 
